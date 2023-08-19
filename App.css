@@ -1,0 +1,20 @@
+.container {
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 12px;
+  border: 4px groove purple;
+  color: #fff;
+}
+.imagen-container img {
+  width: 100px;
+}
+h1 {
+  font-family: "Imperial Script", cursive;
+  font-size: 58px;
+  font-weight: bold;
+}
+.container .social-net {
+  width: 150px;
+  align-self: flex-end;  
+  justify-content: center;
+}

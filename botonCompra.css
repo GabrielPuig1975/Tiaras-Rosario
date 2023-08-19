@@ -1,0 +1,29 @@
+.shopp-container {
+  align-items: center;
+  gap: 12px;
+  justify-content: space-between;
+}
+.precio:first-of-type {
+  margin-left: 10px;
+  font-weight: bold;
+}
+.cantidad {
+  justify-items: center;
+}
+.cantidad input {
+  text-align: center;
+  margin-left: 10px;
+  width: 45px;
+}
+.boton {
+  justify-self: end;
+}
+.boton button {
+  margin-left: 12px;
+  font-size: 26px;
+  border: transparent;
+  background-color: transparent;
+}
+.shop {
+  color: rgb(252, 131, 151);
+}

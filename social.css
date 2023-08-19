@@ -1,0 +1,9 @@
+.social {
+  display: flex;
+  width: 100%;
+  gap: 12px;
+}
+.instagram a svg,
+.whatsapp a svg {
+  justify-content: center;
+}

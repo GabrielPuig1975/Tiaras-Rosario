@@ -1,0 +1,14 @@
+.container-carousel {
+  border: transparent;
+}
+.carousel {
+  margin-top: 37px;
+}
+.carousel-item img {
+  height: 200px;
+  object-fit: contain;
+}
+.carousel-item video {
+  display: block;
+  margin: 0 auto;
+}
